@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+*.pickle
+*.tar.gz
+*.zip
+notMNIST_small/
+notMNIST_large/
